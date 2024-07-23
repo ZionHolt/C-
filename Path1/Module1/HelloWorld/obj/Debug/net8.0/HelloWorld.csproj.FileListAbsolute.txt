@@ -12,3 +12,4 @@ c:\Users\zionh\GitHub\C-\Path1\Module1\HelloWorld\obj\Debug\net8.0\refint\HelloW
 c:\Users\zionh\GitHub\C-\Path1\Module1\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
 c:\Users\zionh\GitHub\C-\Path1\Module1\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
 c:\Users\zionh\GitHub\C-\Path1\Module1\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
+c:\Users\zionh\GitHub\C-\Path1\Module1\HelloWorld\obj\Debug\net8.0\HelloWorld.sourcelink.json

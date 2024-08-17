@@ -1,6 +1,7 @@
 ﻿Console.WriteLine("This is a string");
 Console.Write("This is below the first string");
 Console.Write("This is appended to the previous text.");
+//Console - Class, WriteLine() - Method. Write() - Another method within the Console class.
 
 //Character Literals
 Console.WriteLine('b');
@@ -21,4 +22,17 @@ Console.WriteLine(12.39816m);
 Console.WriteLine(true);
 Console.WriteLine(false);
 
-//Console - Class, WriteLine() - Method. Write() - Another method within the Console class.
+//Declaring Variables
+string name;
+int number;
+double first;
+
+//Initializing Variables
+name = "John";
+number = 0;
+first = 10;
+
+//Getting Variable Values
+Console.WriteLine(name);
+Console.WriteLine(number);
+Console.WriteLine(first);

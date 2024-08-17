@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zionh\\GitHub\\C-\\Path1\\Module1\\HelloWorld\\HelloWorld.csproj": {}
+    "c:\\Users\\zionh\\GitHub\\C-\\Path1\\Module1\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zionh\\GitHub\\C-\\Path1\\Module1\\HelloWorld\\HelloWorld.csproj": {
+    "c:\\Users\\zionh\\GitHub\\C-\\Path1\\Module1\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zionh\\GitHub\\C-\\Path1\\Module1\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "c:\\Users\\zionh\\GitHub\\C-\\Path1\\Module1\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\zionh\\GitHub\\C-\\Path1\\Module1\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "c:\\Users\\zionh\\GitHub\\C-\\Path1\\Module1\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\zionh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zionh\\GitHub\\C-\\Path1\\Module1\\HelloWorld\\obj\\",
+        "outputPath": "c:\\Users\\zionh\\GitHub\\C-\\Path1\\Module1\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zionh\\AppData\\Roaming\\NuGet\\NuGet.Config"

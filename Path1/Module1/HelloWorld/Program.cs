@@ -36,3 +36,6 @@ first = 10;
 Console.WriteLine(name);
 Console.WriteLine(number);
 Console.WriteLine(first);
+
+//Implicitly Typed Local Variables
+var message = "Hello!";
